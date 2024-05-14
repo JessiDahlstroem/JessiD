@@ -1,0 +1,78 @@
+.bodycss{
+    background-color: gray;
+}
+
+.grön{
+    background-color:green; 
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: 20px solid darkgreen; 
+
+}
+
+.gul{
+    background-color:yellow; 
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: 20px solid rgb(219, 222, 50); 
+    
+}
+
+
+.röd{
+    background-color:red; 
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border: 20px solid darkred; 
+    
+}
+
+
+.insidagrön{
+background-color: lightgreen;
+display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+}
+
+
+.insidagul{
+    background-color: rgb(238, 229, 144);
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    }
+
+
+
+.insidaröd{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    }
+
+
+.size1{
+    width: 100%;
+    height: 50%;
+
+}
+.size2 {
+    width: 50%;
+    height: 50%;
+}
+
+    .size3 {
+        width: 50%;
+        height: 50%;
+ }
